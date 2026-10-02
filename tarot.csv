@@ -1,0 +1,79 @@
+cardCode,cardName,upScript,rxScript,suit,element,arcanaType
+0,The Fool,"New beginnings, taking risks, freedom, innocence, new path, spontanaeity, opportunities.","Fear of change, insecurity, incdecision, immature behaviour, irresponsibility, resistance.",None,None,Major
+1,The Magician,"Manifestation, ability, power, intent, transformation, resourcefulness","Deception, manipulation, lack of focus, scarcity of resources, miscommunication",None,None,Major
+2,The High Priestess,"Intuition, mystery, inner wisdom, Divine Feminine, all-knowing, higher power, clairvoyance","Disconnection, blindness, clouded judgement, dishonesty, blockages, secrets",None,None,Major
+3,The Empress,"Creation, fertility, support, caretaking, Divine Feminine, abundance, nurturing, luxury","Over-reliance, unproductive, idleness, external dependence, overbearing",None,None,Major
+4,The Emperor,"Authority, stability, structure, Divine Masculine, leadership responsibility","Immaturity, tyranny, indecision, inability, irresponsibility, ego, dominating",None,None,Major
+5,The Hierophant,"Faith, spiritual wisdom, traditions, education, teaching, blessings, inner peace","Rebellion, new methods, challenging, individuality, non-conformity, originality",None,None,Major
+6,The Lovers,"Union, divine love, soulmate, relationships, romance, connection, harmony","Conflict avoidance, imbalance, detachment, separation, arguments, conflict, lack of trust",None,None,Major
+7,The Chariot,"Determination, control, willpower, movement, victory, progress, direction","Lack of direction, obstacles, impatience, self-doubt, giving up, indecision",None,None,Major
+8,Strength,"Courage, inner strength, gentle power, compassion, grace, endurance","Inadequacy, insecurity, self-doubt, lack of confidcence, fear, anxiety",None,None,Major
+9,The Hermit,"Solitude, introspection, reflection, inner guidance, wisdom, contemplations, analysis","Isolation, loneliness, disconnection from self, impatience, external validation",None,None,Major
+10,Wheel of Fortune,"Destiny, life cycles, luck, karma, fortune, destiny, sudden change, unexpected events","Setbacks, bad luck, resistance, repeating patterns, stagnation, inflexibility",None,None,Major
+11,Justice,"Fairness, justice, balance, equality, honesty, integrity, legal matters, accountability, truth","Injustice, dishonesty, imbalance, unfairness, legal matters, corruption, no accountability",None,None,Major
+12,The Hanged Woman,"Surrender, let go, sacrifice, patience, perspective, new insights, pause, contemplation","Resistance, indecision, stagnation, delays, victim mindset, stubborness, disinterest",None,None,Major
+13,Death,"Big transformation, new beginnings, endings, rebirth, evolution, liberation","Holding on, rigidity, fear, resistance to change, stagnation, avoidance, blockages",None,None,Major
+14,Temperance,"Harmony, balance, moderation, healing, patience, peace, alchemy, higher purpose","Disharmony, imbalance, excess, impatience, lack of moderation, confusion",None,None,Major
+15,The Devil,"Temptation, addiction, materialism, obsession, shadow-self, manipulation, greed","Freedom, release, detachment, liberation, overcoming addictions, transcendance",None,None,Major
+16,The Tower,"Sudden change, disaster, upheaval, destruction, chaos, divine intervention, revelation","Avoidance, fear of change, repression, self-deception, incomplete cycle, hiding from truth",None,None,Major
+17,The Star,"Guidance, hope, renewal, inspiration, positivity, healing, inner peace, rejuvenation, health","Disconnection, insecurity, lost, disappointment, depression, uncertainty",None,None,Major
+18,The Moon,"Illusion, intuition, subconscious, dreams, cycles, deception, the unseen, hidden, fear","Release, clarity, letting go, confrontation, overcoming, understanding, awakening",None,None,Major
+19,The Sun,"Joy, vitality, success, positivity, confidence, innocence, abundance, wholeness, presence","Potential sadness, delay, burnout, inner chide, scarcity, overlooked, disconnection",None,None,Major
+20,Judgement,"Awakening, judgement, transformation, clarity, self-evaluation, revelation, purpose","Self-doubt, resistance, fear of change, stagnation, avoidance, self-punishment",None,None,Major
+21,The World,"Wholeness, completion, accomplishment, integration, fulfillment, totality, travel","Incompletion, dissatisfaction, unresolved issues, unachieved goals, disharmony",None,None,Major
+AC,Ace of Cups,"New beginnings, love, fertility, creativity, fulfilment, renewal, awakening","Blocked emotions, repression, unfulfilment, disconnection, emptiness",Cups,Water,Minor
+2C,Two of Cups,"Partnership, love, connection, harmony, mutual attraction, unity, romance, commitment","Discord, imbalance, broken relationship, misaligned falues, disconnection, betrayal",Cups,Water,Minor
+3C,Three of Cups,"Celebration, friendship, socialising, support, community, teamwork, collaboration","Disconnection, gossip, isolation, betrayal, selfishness, lack of support, abandonment",Cups,Water,Minor
+4C,Four of Cups,"Introspection, stillness, healing, self-compassion, acceptance, clarity, renewal","Gratitude, awareness, clarity, re-engagement, renewal, positivity, inspiration",Cups,Water,Minor
+5C,Five of Cups,"Disappointment, grief, sorrow, turmoil, defeat, regret, failure, hardship","Acceptance, moving on, forgiveness, release, renewal, resilience",Cups,Water,Minor
+6C,Six of Cups,"Childhood, nostalgia, innocence, memories, past, sentimentality, reunions","Naivety, stuck in the past, stagnation, grudges, baggage, neglect",Cups,Water,Minor
+7C,Seven of Cups,"Choices, options, fantasy, imagination, temptation, illusions, dreams, ambition","Clarity, focus, realism, rationality, grounded, discerning, realization",Cups,Water,Minor
+8C,Eight of Cups,"Letting go, moving on, transition, abandonment, release, discontentment, detachment","Fear of change, resistance, stagnation, attachment, avoidance, repression",Cups,Water,Minor
+9C,Nine of Cups,"Satisfaction, happiness, pleasure, gratitude, abundance, wishes granted, success","Unfulfilled, discontentment, overindulgence, disappointment, lack, greed, emptiness",Cups,Water,Minor
+10C,Ten of Cups,"Harmony, happiness, family, love, celebration, fulfilment, unity","Disconnection, disharmony, family discord, broken relationships, dissatisfaction",Cups,Water,Minor
+PC,Page of Cups,"Imagination, creativity, intuition, curiosity, sensitivity, innocence, inspiration, openness","Insecurity, blocked creativity, emotional immaturity, distraction, self-doubt",Cups,Water,Minor
+KnC,Knight of Cups,"Romance, charm, imagination, idealism, creativity, artistry, graceful, dreamer","Disappointment, jealousy, escapism, insecurity, unreliability, stagnation",Cups,Water,Minor
+QC,Queen of Cups,"Empathy, compassion, intuition, emotional balance, deep understanding, nurturing","Imbalance, insecurity, dependence, withdrawal, smothering, self-neglect",Cups,Water,Minor
+KC,King of Cups,"Emotional intelligence, compassion, diplomacy, balance, support, patience, wisdom","Manipulation, moodiness, disconnection, instability, impatience, jealousy, intolerance",Cups,Water,Minor
+AP,Ace of Pentacles,"Prosperity, opportunity, manifestation, stability, growth, abundance, reward","Missed opportunity, financial loss, stagnation, instability, greed, lack, insecurity",Pentacles,Earth,Minor
+2P,Two of Pentacles,"Balance, adaptability, flexibility, juggling, change, resourcefulness, duality","Imbalance, burnout, overwhelm, disorganization, inflexibility, stress",Pentacles,Earth,Minor
+3P,Three of Pentacles,"Cooperation, collaboration, teamwork, skill, expertise, commitment","Isolation, noncooperation, miscommunication, conflict, competition, disagreements",Pentacles,Earth,Minor
+4P,Four of Pentacles,"Possessiveness, security, control, investment, conservation, prudence, savings","Generosity, release, openness, vulnerability, freedom, spontaneity, flexibility",Pentacles,Earth,Minor
+5P,Five of Pentacles,"Hardship, material loss, poverty, illness, abandonment, struggle, scarcity","Hope, acceptance, renewal, gratitude, positivity, healing, contentment",Pentacles,Earth,Minor
+6P,Six of Pentacles,"Generosity, charity, giving, sharing, assistance, philanthropy, balance","Greed, selfishness, exploitation, inequality, unfairness, dependence, scarcity",Pentacles,Earth,Minor
+7P,Seven of Pentacles,"Perseverance, patience, investment, hard work, harvest, reward","Impatience, impulsiveness, disappointment, shortcuts, prorastination, unwise investment",Pentacles,Earth,Minor
+8P,Eight of Pentacles,"Diligence, skill, craftsmanship, hard work, mastery, precision, detail-oriented","Medicrity, impatience, procrastination, boredom, stagnation, carelessness",Pentacles,Earth,Minor
+9P,Nine of Pentacles,"Prosperity, abundance, luxury, independence, gratitude, wealth, comfort, success","Dependence, isolation, materialism, loss, financial struggles, jealousy",Pentacles,Earth,Minor
+10P,Ten of Pentacles,"Legacy, abundance, family, inheritance, prosperity, security, completion, home","Loss, scarcity, financial instability, family conflict, disconnection, neglect",Pentacles,Earth,Minor
+PP,Page of Pentacles,"Opportunity, manifestation, ambition, stability, focus, an offer, potential, diligence","Procrastination, laziness, insecurity, impatience, distraction, irresponsibility",Pentacles,Earth,Minor
+KnP,Knight of Pentacles,"Reliability, steadfastness, dedication, responsibility, patience, perseverance","Stagnation, rigidity, laziness, boredom, neglect, shortcutes, gambler",Pentacles,Earth,Minor
+QP,Queen of Pentacles,"Generous, nurturing, practical, comfort, abundance, resourcefulness, prosperity","Defeat, lack of control, imbalance, indecision, delays, aggression, setback",Pentacles,Earth,Minor
+KP,King of Pentacles,"Security, discipline, leadership, abundance, provider, dependable, practical, prosperous","Greed, materialism, inflexibility, short-sightedness, irresponsibility, dependence",Pentacles,Earth,Minor
+AS,Ace of Swords,"Clarity, truth, breakthrough, insight, focus, victory, intellect, decision","Confusion, miscommunication, chaos, indecision, illusion, delays, dishonesty",Swords,Air,Minor
+2S,Two of Swords,"Indecision, stalemate, crossroads, avoidance, choices, standstill, tension","Decisions, resolution, compromise, action, clarity, movement, insight, confrontation",Swords,Air,Minor
+3S,Three of Swords,"Heartache, sorrow, loss, grief, betrayal, separation, trauma, healing","Forgiveness, healing, recovery, reconciliation, acceptance, learning, release",Swords,Air,Minor
+4S,Four of Swords,"Retreat, rest, contemplation, solitude, healing, recharge, recovery, renewal","Restlessness, sxhaustion, overworked, stress, resistance, agitation, disconnection",Swords,Air,Minor
+5S,Five of Swords,"Conflict, tension, defeat, betrayal, loss, dishonour, ego, competition, aggression","Reconciliation, forgiveness, compromise, resolution, learning, humility, recovery",Swords,Air,Minor
+6S,Six of Swords,"Change, transition, journey, moving on, release, departure, distance","Resistance, delay, stagnation, procrastination, struggle, avoidance, trapped",Swords,Air,Minor
+7S,Seven of Swords,"Deception, strategy, cunning, secrecy, dishonesty, manipulation, evasion, protect","Transparency, openness, accountability, confession, guilt, exposure, confrontation",Swords,Air,Minor
+8S,Eight of Swords,"Trapped, isolation, restriction, anxiety, fear, self-doubt, victimhood, paralysis","Freedom, release, empowerment, self-awareness, clarity, confidence, courage",Swords,Air,Minor
+9S,Nine of Swords,"Anxiety, fear, nightmares, guilt, despair, loneliness, stress, insomnia","Release, relief, acceptance, forgiveness, healing, clarity, inner peace",Swords,Air,Minor
+10S,Ten of Swords,"Betrayal, pain, endings, loss, rock-bottom, finality, transition","Release, hope, recovery, healing, renewal, rebirth, forgiveness",Swords,Air,Minor
+PS,Page of Swords,"Curiosity, intellect, communication, ambition, cleverness, wit, observation","Dishonesty, confusion, indecision, inaccuracy, recklessness, cunning, manipulation",Swords,Air,Minor
+KnS,Knight of Swords,"Action, ambition, focus, impulsiveness, restlessness, speed, urgency, intellectual","Aggression, Impatience, inflexibility, recklessness, stubbornness, turbulence, forceful",Swords,Air,Minor
+QS,Queen of Swords,"Clarity, communication, intelligence, honesty, wisdom, objectivity, perception, fairness","Cold, cruel, harsh, inflexible, intolerant, manipulative, secretive, unforgiving",Swords,Air,Minor
+KS,King of Swords,"Authority, discipline, fair, honest, intellectual, justice, mastery, powerful, serious","Arrogance, coldness, cruelty, dishonesty, domination, harshness, vindictiveness, selfishness, rigidity, intolerance",Swords,Air,Minor
+AW,Ace of Wands,"Creativity, inspiration, potential, energy, passion, vitality, new beginnings, growth","Blocked creativity, stagnation, indecision, doubt, histation, delays, distractions",Wands,Fire,Minor
+2W,Two of Wands,"Planning, choice, exploration, crossroads, decision, expansion","Indecision, overwhelm, fear of the unknown, limited perspective, controlling",Wands,Fire,Minor
+3W,Three of Wands,"Progress, exploration, anticipation, growth, oversease ventures, milestones, confidence","Delays, setbacks, frustration, disappointments, poor planning, stagnation",Wands,Fire,Minor
+4W,Four of Wands,"Celebration, community, harmony, abundance, completion, homecoming, achievement","Disruption, instability, isolation, unfulfilment, disharmony, insecurity, friction",Wands,Fire,Minor
+5W,Five of Wands,"Conflict, competition, disagreements, challenges, obstacles, struggle, opposition","Resolution, harmony, unity, collaboration, agreement, cooperation, reconciliation",Wands,Fire,Minor
+6W,Six of Wands,"Triumph, success, achievement, recognition, honor, celebration, public acclaim","Ego, pride, humiliation, setbacks, failure, disappointment, criticism, jealousy",Wands,Fire,Minor
+7W,Seven of Wands,"Boundaries, bravery, protection, challenge, perseverance, self-preservation","Surrender, vulnerability, defeat, overwhelm, submission, giving up, intimidation",Wands,Fire,Minor
+8W,Eight of Wands,"Speed, action, momentum, communication, swift movement, gange, energy","Resistance, delays, frustration, obstacles, procrastination, distractions, slowing",Wands,Fire,Minor
+9W,Nine of Wands,"Resilience, endurance, perseverance, fatigue, strength, stamina, determination","Doubt, exhaustion, hesitation, paranoia, insecurity, burnout, giving up, vulnerability",Wands,Fire,Minor
+10W,Ten of Wands,"Burdens, responsibility, overload, stress, commitment, perseverance, hard work","Delegation, release, learning, priorizing, unburdening, saying no, listening",Wands,Fire,Minor
+PW,Page of Wands,"Exploration enthusiasm, curiosity, adventure, inspiration, optimism, passion","Hesitation, procrastination, insecurity, distraction, self-doubt, frustration, impatience",Wands,Fire,Minor
+KnW,Knight of Wands,"Action, energy, ambition, determination, fearlessness, boldness, confidence","Impatience, recklessness, haste, frustration, arrogance, domination, delays",Wands,Fire,Minor
+QW,Queen of Wands,"Confidence, passion, warmth, courage, magnetism, optimism, independence, creativity","Selfishness, impatience, arrogance, gealousy, manipulation, insecurity, vengefulness, burnout",Wands,Fire,Minor
+KW,King of Wands,"Inspiration, passion, confidence, power, leader, entrepreneur, visionary","Impulsiveness, arrogance, domination, insecurity, recklessness, egotism, overconfidence, tyranny",Wands,Fire,Minor
